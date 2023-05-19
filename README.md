@@ -1,8 +1,7 @@
  👋 ¡Hola!, Soy jhonny Hoyos
 ------------------------------------------------------------------------------------------------------------
 
- **Actualmente soy estudiante de Ingeniería de sistemas en la Coporacón Universitaria Remington.
- Me estoy enfocando en el desarrollo web con las tecnologias en tendencia tales como laravel, angular, vue, flutter**
+ **Soy estudiante de 7 semestre de Ingeniería de sistemas en la Coporacón Universitaria Remington**
  
  
- <sub>En este perfil encontrarás mis proyectos</sub>
+ <sub>Contáctame a mi correo: jhonnyhoyoslopez@gmail.com</sub>
